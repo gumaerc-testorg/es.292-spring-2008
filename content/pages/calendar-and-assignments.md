@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Calendar and Assignments
 uid: d0601f52-ea35-11c2-a5e2-2d928a38ebe7
 ---

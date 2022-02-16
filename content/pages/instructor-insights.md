@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 912d214c-1a10-6553-592a-a36fdeb25ac9
 ---
@@ -64,20 +66,6 @@ None
 ### Offered
 
 This course was offered one time in the Spring of 2008.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photo of a classroom with a rectangular table with chairs around it. A chalkboard covers the wall at the front of the room.]({{< resource_file 1eb57169-3d38-afbc-5b07-60ad988a59e1 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    The classroom used for this course was a small seminar-style room designed to foster discussion and collaboration.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
