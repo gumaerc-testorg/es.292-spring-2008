@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: d0601f52-ea35-11c2-a5e2-2d928a38ebe7
 resourcetype: Document
 title: 'Session 10: Satire'
 uid: 8ceb3b5a-0a9d-75d4-46f2-3093b00700c7

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: d0601f52-ea35-11c2-a5e2-2d928a38ebe7
 resourcetype: Document
 title: 'Session 8 and 9: Microfiction'
 uid: c7fb25fc-d60e-7aff-fa30-78199408948a

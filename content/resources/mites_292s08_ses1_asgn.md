@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: d0601f52-ea35-11c2-a5e2-2d928a38ebe7
 resourcetype: Document
 title: 'Genre: Writing about Writing'
 uid: fa3af592-6164-4631-660e-7a008ef0d4d1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4f6da823-6fc5-5d44-e087-5321b8aa24a2
 resourcetype: Document
 title: Fallen Bird
 uid: 523e7cfa-eed4-d943-add0-33eace9bbb57
