@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-292-writing-workshop-spring-2008/fe24889446f30c0a64e5e4b477e12006_ES-292_stat-students.png
+file: /courses/es-292-writing-workshop-spring-2008/fe24889446f30c0a64e5e4b477e12006_ES-292_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-292-writing-workshop-spring-2008/469db577a61a648fd8df6b42ccb343f2_MITES_292S08_Immortality.pdf
+file: /courses/es-292-writing-workshop-spring-2008/469db577a61a648fd8df6b42ccb343f2_MITES_292S08_Immortality.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-292-writing-workshop-spring-2008/fa3af59261644631660e7a008ef0d4d1_MITES_292S08_ses1_asgn.pdf
+file: /courses/es-292-writing-workshop-spring-2008/fa3af59261644631660e7a008ef0d4d1_MITES_292S08_ses1_asgn.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
