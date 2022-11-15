@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, assignments,
+  and key dates for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ Start "Why I Write"
 
 Read "[Dumpster Diving](https://www.cusd80.com/cms/lib/AZ01001175/Centricity/Domain/2346/On%20Dumpster%20Diving.docx.pdf)" by Lars Eighner
 
-Write "Why I Write" (one page) ([PDF]({{< baseurl >}}/resources/mites_292s08_ses1_asgn))
+Write "Why I Write" (one page) ({{% resource_link fa3af592-6164-4631-660e-7a008ef0d4d1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -81,7 +83,7 @@ Start two page expert essay
 
 Read "[The Inheritance of Tools](http://www.stjoe.k12.in.us/ourpages/auto/2013/5/2/47907868/Inheritance%20of%20Tools%20Sanders%20text%20copy.pdf)" by Scott Russell Sanders
 
-Write expert essay (two pages) ([PDF]({{< baseurl >}}/resources/mites_292s08_ses2_3_asgn))
+Write expert essay (two pages) ({{% resource_link f1bb2798-1105-45ac-b6e0-0d60b3e3ef09 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -130,7 +132,7 @@ Continue with expert essay.
 
 Workshops 1 and 2
 
-Read and discuss "Boys"  by Rick Moody (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://katey.schultz.googlepages.com/boys1.pdf))
+Read and discuss "Boys"  by Rick Moody ([PDF](http://katey.schultz.googlepages.com/boys1.pdf))
 
 
 {{< tdclose >}}
@@ -139,7 +141,7 @@ Read and discuss "Boys"  by Rick Moody (![This resource may not render correct
 
 Prepare for workshops 3 and 4
 
-Write poetic prose (two pages) ([PDF]({{< baseurl >}}/resources/mites_292s08_ses4_5_asgn))
+Write poetic prose (two pages) ({{% resource_link fda4dce7-719e-6eea-9b0d-b7ebf22e2508 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -159,7 +161,7 @@ Expert essay due
 
 Workshops 3 and 4
 
-Read and discuss "Fallen Bird" by Jessica Young ([PDF]({{< baseurl >}}/resources/mites_292s08_falnbrd))
+Read and discuss "Fallen Bird" by Jessica Young ({{% resource_link e4e2b33e-6030-3387-a031-4fbc9f1e3976 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -261,7 +263,7 @@ OuLiPo
 
 {{< tdclose >}}
 {{< tdopen >}}
-Write microfiction ([PDF]({{< baseurl >}}/resources/mites_292s08_ses8_9_asgn))
+Write microfiction ({{% resource_link c7fb25fc-d60e-7aff-fa30-78199408948a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prose-like poetry due
@@ -282,7 +284,7 @@ Workshop class' microfiction / OuLiPo
 
 {{< tdclose >}}
 {{< tdopen >}}
-Read "Lost in the Kitchen" by Dave Barry (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://kmartino.weebly.com/uploads/3/0/4/5/30458006/lost_in_the_kitchen.pdf))
+Read "Lost in the Kitchen" by Dave Barry ([PDF](http://kmartino.weebly.com/uploads/3/0/4/5/30458006/lost_in_the_kitchen.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 Microfiction due
@@ -303,7 +305,7 @@ Read and discuss "[Dating Your Mom](http://www.newyorker.com/magazine/1978/07/0
 
 {{< tdclose >}}
 {{< tdopen >}}
-Write a satire essay ([PDF]({{< baseurl >}}/resources/mites_292s08_ses10_asgn))
+Write a satire essay ({{% resource_link 8ceb3b5a-0a9d-75d4-46f2-3093b00700c7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
