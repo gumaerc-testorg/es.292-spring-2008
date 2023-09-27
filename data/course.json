@@ -34,8 +34,10 @@
     "website": "es-292-writing-workshop-spring-2008"
   },
   "learning_resource_types": [
-    "Projects"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "2295150f-90ce-4116-85c7-b54f9fa97702",
+  "site_uid": "ebfabc21-c289-46c9-85ad-d71697ef2d48",
+  "site_short_id": "es.292-spring-2008",
   "title": "Course Metadata"
 }

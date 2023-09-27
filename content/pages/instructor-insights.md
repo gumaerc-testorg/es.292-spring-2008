@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 912d214c-1a10-6553-592a-a36fdeb25ac9
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _SP.292 Writing Workshop_ as it was taught by Jessica Young in Spring 2008.
 
@@ -16,8 +17,7 @@ The course was about encouraging students to think deeply and creatively, and gi
 
 The Experimental Study Group sponsors 5–10 six unit pass / fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum. These seminars are open to all MIT students, as well as ESG students, and are intended to be hands-on and experiential in nature.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -29,12 +29,11 @@ This is a great set-up course for any kind of creative writing course–from a p
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "A personal goal of mine was to help students with their confidence in writing–especially at MIT where we think of ourselves more as brains than as hearts." "—Jessica Young" >}}
 
-_Below, Jessica Young describes various aspects of how she taught SP.292 Writing Workshop._
+_Below, Jessica Young describes various aspects of how she taught_ SP.292 Writing Workshop_._
 
 ### Benefit of Workshops
 
@@ -52,8 +51,7 @@ I designed the entire course, from what we read, to what we wrote, to what exerc
 
 The course was a lot of fun. I remember laughing and smiling a lot, and looking forward to our meetings. I generally feel this way with teaching, but there’s something about such an intimate (small) creative writing class that was invigorating. Even if people using OCW aren’t able to have that exact experience, I hope they’ll approach the materials I’ve shared with a sense of joy and lightness.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -69,24 +67,24 @@ This course was offered one time in the Spring of 2008.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
-This course was graded as on a Pass/D/Fail basis. This means a student could either pass the course, receive a D grade, or fail the course. [Learn more](http://web.mit.edu/registrar/reg/grades/freshmangrading.html) about student grading.
+This course was graded as on a Pass/D/Fail basis. This means a student could either pass the course, receive a D grade, or fail the course. [Learn more](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/first-year-grading) about student grading.
 
 ### Intructor Insights on Assessment
 
 The class was graded pass/fail. As long as a student participated fully in the course and produced successful work, they passed. Beyond that, the real pleasure was writing letters to students about their work. Each time students turned in a piece of work (which was at least once a week), I wrote them a letter in response. Like in a workshop, I addressed both the piece’s successes and areas needing improvement. This way I was able to offer personalized feedback on each piece while building a sense of each writer as a whole. For example noticing over several assignments that a writer had trouble with analogies, even if its not something I cover in the class, I could then still meet with that person to help him/her.
 
-Student Information
--------------------
+## Student Information
 
-![On average, fewer than 10 students take this course each time it is offered.]({{< resource_file fe248894-46f3-0c0a-64e5-e4b477e12006 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
-*   All levels of undergraduates
-*   Graduate students
+- All levels of undergraduates
+- Graduate students
 
 ### Breakdown by Major
 
@@ -102,19 +100,16 @@ I absolutely think there is an ideal class size. A class such as this should be 
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 6 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 1 time per week for 2 hours per session; 16 sessions total.
 
 I preferred to keep reading in the classroom to a minimum, as we had only so many hours together each week. So any worksheets or workshop prep happened as homework. In class, then, we focused on discussion and activity. A discussion, for example, was about teasing apart a prose-poem we’d read for homework: What is the writer saying, what techniques does the writer use, how satisfying is the piece and why? An activity, for example, was about doing something together to practice a technique within writing. So we might sit with our eyes closed and discuss the feeling of sitting in a chair, working on how to offer sensory description in an exact and original way.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent their out-of-class hours reading and writing, with the focus placed on writing. Each week students spent up to one hour reading materials for the course. The other three hours were for writing new material and/or revising previously written material. Even if an assignment one week was short, I asked students to spend the full three hours writing. For example, I might ask students to try the same short assignment a couple of times, answering the assignment in vastly different ways. So even a two-page write-up became a source of practice and exploration.

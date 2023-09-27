@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about the Experimental Study Group Seminar Series, course meeting times, guidelines,
+  requirements, grading, and plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
