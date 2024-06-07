@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-292-writing-workshop-spring-2008/c6d0299931944cd2a48ce91d748b557b_MITES_292S08_to_sleep.pdf
+file_size: 496850
 file_type: application/pdf
 learning_resource_types:
 - Projects

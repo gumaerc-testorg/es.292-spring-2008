@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-292-writing-workshop-spring-2008/f1bb2798110545acb6e00d60b3e3ef09_MITES_292S08_ses2_3_asgn.pdf
+file_size: 41141
 file_type: application/pdf
 learning_resource_types:
 - Assignments
