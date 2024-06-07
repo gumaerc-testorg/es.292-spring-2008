@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-292-writing-workshop-spring-2008/fe24889446f30c0a64e5e4b477e12006_ES-292_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
