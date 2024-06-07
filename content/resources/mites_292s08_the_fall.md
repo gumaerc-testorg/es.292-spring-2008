@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-292-writing-workshop-spring-2008/85628c6ff2735481d4ae10a45ab07c07_MITES_292S08_the_fall.pdf
+file_size: 46569
 file_type: application/pdf
 learning_resource_types:
 - Projects

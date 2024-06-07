@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-292-writing-workshop-spring-2008/469db577a61a648fd8df6b42ccb343f2_MITES_292S08_Immortality.pdf
+file_size: 52856
 file_type: application/pdf
 learning_resource_types:
 - Projects
