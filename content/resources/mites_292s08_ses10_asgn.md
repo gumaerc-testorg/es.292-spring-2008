@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-292-writing-workshop-spring-2008/8ceb3b5a0a9d75d446f23093b00700c7_MITES_292S08_ses10_asgn.pdf
+file: /ol-ocw-studio-app/courses/es-292-writing-workshop-spring-2008/8ceb3b5a0a9d75d446f23093b00700c7_MITES_292S08_ses10_asgn.pdf
 file_size: 39776
 file_type: application/pdf
 learning_resource_types:
