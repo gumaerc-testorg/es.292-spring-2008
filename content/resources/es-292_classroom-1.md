@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-292-writing-workshop-spring-2008/1eb571693d38afbc5b0760ad988a59e1_ES-292_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/es-292-writing-workshop-spring-2008/1eb571693d38afbc5b0760ad988a59e1_ES-292_classroom-1.jpg
 file_size: 39574
 file_type: image/jpeg
 image_metadata:
