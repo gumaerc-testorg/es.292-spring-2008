@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/es-292-writing-workshop-spring-2008/1d8a7779f386999095fe93cf55ab2f7b_MITES_292S08_facbok.pdf
+file: /courses/es-292-writing-workshop-spring-2008/1d8a7779f386999095fe93cf55ab2f7b_MITES_292S08_facbok.pdf
 file_size: 517782
 file_type: application/pdf
 learning_resource_types:
