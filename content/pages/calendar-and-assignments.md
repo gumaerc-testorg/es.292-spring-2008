@@ -33,7 +33,7 @@ Start "Why I Write"
 
 {{< tdclose >}}{{< tdopen >}}
 
-Read "[Dumpster Diving](https://www.cusd80.com/cms/lib/AZ01001175/Centricity/Domain/2346/On%20Dumpster%20Diving.docx.pdf)" by Lars Eighner
+Read "{{% resource_link "e965df43-9a96-42ea-9b40-4bdf88f6f88e" "Dumpster Diving" %}}" by Lars Eighner
 
 Write "Why I Write" (one page) ({{% resource_link "fa3af592-6164-4631-660e-7a008ef0d4d1" "PDF" %}})
 
@@ -53,7 +53,7 @@ Start two page expert essay
 
 {{< tdclose >}}{{< tdopen >}}
 
-Read "[The Inheritance of Tools" (PDF)](https://www.frontiercsd.org/cms/lib/NY19000265/Centricity/Domain/218/Tools.pdf) by Scott Russell Sanders
+Read "{{% resource_link "bfd48fe1-dc6e-4976-8928-4a9bfff41036" "The Inheritance of Tools\" (PDF)" %}} by Scott Russell Sanders
 
 Write expert essay (two pages) ({{% resource_link "f1bb2798-1105-45ac-b6e0-0d60b3e3ef09" "PDF" %}})
 
@@ -85,7 +85,7 @@ Continue with expert essay.
 
 Workshops 1 and 2
 
-Read and discuss "Boys"  by Rick Moody ([PDF](http://katey.schultz.googlepages.com/boys1.pdf))
+Read and discuss "Boys"  by Rick Moody ({{% resource_link "eb6b19b7-5042-4057-a030-429775eb17e5" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -121,9 +121,9 @@ Continue with poetic prose
 
 Workshop 5 and 6
 
-Read and discuss "[The River Merchant's Wife: A Letter](http://www.poets.org/viewmedia.php/prmMID/15425)"  by Ezra Pound
+Read and discuss "{{% resource_link "37d1aa10-979e-4693-9e99-b73ca989e34a" "The River Merchant's Wife: A Letter" %}}"  by Ezra Pound
 
-Read and discuss "[AIDS](http://books.google.com/books?id=Lk7dIAmVLZYC&pg=PA40&lpg=PA40&dq=aids+bob+hicok&source=bl&ots=F_PuEeieXM&sig=Nq6Oi_QEwnsbgGhU3WKzPPO-9Ag&hl=en&ei=mqgISveRNKKwMcuf5aID&sa=X&oi=book_result&ct=result&resnum=3)"  by Bob Hicok
+Read and discuss "{{% resource_link "479d4ebe-ff2e-435d-b42b-24f3e61ce719" "AIDS" %}}"  by Bob Hicok
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -141,7 +141,7 @@ Poetic prose due
 
 Workshop 7 and 8
 
-Read and discuss "[I Know a Man](http://www.poetryfoundation.org/archive/poem.html?id=171564)"  by Robert Creeley
+Read and discuss "{{% resource_link "8314ab4c-966e-4290-97db-801f469b0b36" "I Know a Man" %}}"  by Robert Creeley
 
 Frost updated
 
@@ -165,7 +165,7 @@ Workshops 9-12
 
 Read and discuss Edson microfictions
 
-Read and discuss "An Act of Love" by Selby and "[Sunset: Lake Erie](http://paperbagcollector.blogspot.com/search?q=kotzin)"  by Miriam Kotzin
+Read and discuss "An Act of Love" by Selby and "{{% resource_link "754401a2-8f45-457f-9d85-3b4895dfe2d6" "Sunset: Lake Erie" %}}"  by Miriam Kotzin
 
 OuLiPo
 
@@ -182,7 +182,7 @@ Prose-like poetry due
 Workshop class' microfiction / OuLiPo
 
 {{< tdclose >}}{{< tdopen >}}
-Read "Lost in the Kitchen" by Dave Barry ([PDF](http://kmartino.weebly.com/uploads/3/0/4/5/30458006/lost_in_the_kitchen.pdf))
+Read "Lost in the Kitchen" by Dave Barry ({{% resource_link "c3fcbf9f-1aff-47f1-a604-fecf2920780e" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Microfiction due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -191,7 +191,7 @@ Microfiction due
 
 ### Satire
 
-Read and discuss "[Dating Your Mom](http://www.newyorker.com/magazine/1978/07/03/dating-your-mom)"  by Ian Frazier
+Read and discuss "{{% resource_link "e039a66a-d307-4185-8753-3bcc76e93200" "Dating Your Mom" %}}"  by Ian Frazier
 
 {{< tdclose >}}{{< tdopen >}}
 Write a satire essay ({{% resource_link "8ceb3b5a-0a9d-75d4-46f2-3093b00700c7" "PDF" %}})
