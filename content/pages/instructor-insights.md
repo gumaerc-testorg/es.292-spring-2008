@@ -69,7 +69,7 @@ This course was offered one time in the Spring of 2008.
 
 ## Assessment
 
-This course was graded as on a Pass/D/Fail basis. This means a student could either pass the course, receive a D grade, or fail the course. {{% resource_link "1adbe011-7bea-4663-b923-0311b78bd7f1" "Learn more" %}} about student grading.
+This course was graded as on a Pass/D/Fail basis. This means a student could either pass the course, receive a D grade, or fail the course. [Learn more](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/first-year-grading) about student grading.
 
 ### Intructor Insights on Assessment
 
